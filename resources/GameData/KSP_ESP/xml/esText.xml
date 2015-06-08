@@ -1,0 +1,108 @@
+<es>
+<string name="Read Plaque"><![CDATA[Leer Placa]]></string>
+<string name="Toggle Display"><![CDATA[Alternar]]></string>
+
+<string name="Resources"><![CDATA[Recursos]]></string>
+<string name="EVA Propellant"><![CDATA[Propergol AEV]]></string>
+<string name="LiquidFuel"><![CDATA[Keroseno]]></string>
+<string name="XenonGas"><![CDATA[Xenon]]></string>
+<string name="SolidFuel"><![CDATA[Solido]]></string>
+<string name="ElectricCharge"><![CDATA[Electricidad]]></string>
+<string name="IntakeAir"><![CDATA[Entrada de aire]]></string>
+<string name="Oxidizer"><![CDATA[Oxidante]]></string>
+<string name="MonoPropellant"><![CDATA[Propergol]]></string>
+
+<string name="Start"><![CDATA[Empezar]]></string>
+<string name="Stage Only"><![CDATA[Etapa unica]]></string>
+
+<string name="Inactive"><![CDATA[Inactivo]]></string>
+<string name="Stage"><![CDATA[Etapa]]></string>
+<string name="Gear"><![CDATA[Engranaje]]></string>
+<string name="Light"><![CDATA[Luz]]></string>
+<string name="Abort"><![CDATA[Abortar]]></string>
+<string name="Custom01"><![CDATA[Personalizado01]]></string>
+<string name="Custom02"><![CDATA[Personalizado02]]></string>
+<string name="Custom03"><![CDATA[Personalizado03]]></string>
+<string name="Custom04"><![CDATA[Personalizado04]]></string>
+<string name="Custom05"><![CDATA[Personalizado05]]></string>
+<string name="Custom06"><![CDATA[Personalizado06]]></string>
+<string name="Custom07"><![CDATA[Personalizado07]]></string>
+<string name="Custom08"><![CDATA[Personalizado08]]></string>
+<string name="Custom09"><![CDATA[Personalizado09]]></string>
+<string name="Custom10"><![CDATA[Personalizado10]]></string>
+<string name="EVA Report"><![CDATA[Informe AEV]]></string>
+<string name="Plant Flag ["><![CDATA[Plantar bandera[]]></string>
+<string name="Plant Flag [1]"><![CDATA[Plantar bandera[1]]]></string>
+<string name="Take Surface Sample"><![CDATA[Tomar Muestra de superficie]]></string>
+<string name="Review Sample"><![CDATA[Revisar Muestra]]></string>
+<string name="Review Data"><![CDATA[Revisar datos]]></string>
+<string name="Store Experiments"><![CDATA[Almacenar experimentos]]></string>
+<string name="Review Stored Data"><![CDATA[Revisar datos almacenados]]></string>
+<string name="Disable Crossfeed"><![CDATA[Desactivar suministro]]></string>
+<string name="Enable Crossfeed"><![CDATA[Activar suministro]]></string>
+<string name="Action Groups"><![CDATA[Grupos de Accion]]></string>
+<string name="Group Actions"><![CDATA[Acciones de grupo]]></string>
+<string name="Selection"><![CDATA[Seleccion]]></string>
+<string name="Mission Flag"><![CDATA[Bandera]]></string>
+<string name="Change flag"><![CDATA[Cambiar bandera]]></string>
+<string name="This flag will be used"><![CDATA[Esta bandera se utilizará]]></string>
+<string name="for this mission only"><![CDATA[para esta misión solamente]]></string>
+
+<string name="Welcome to the science archives. Please make a selection."><![CDATA[Bienvenido a los archivos de ciencia. Por favor haga una selección.]]></string>
+<string name='[#e6752a]EVA:'><![CDATA[[#e6752a]AEV:]]></string>
+<string name='[#e6752a]Lander:'><![CDATA[[#e6752a]Aterrizador:]]></string>
+<string name='[#e6752a]Probe:'><![CDATA[[#e6752a]Sonda:]]></string>
+<string name='[#e6752a]Debri:'><![CDATA[[#e6752a]Restos:]]></string>
+<string name='[#e6752a]Flag:'><![CDATA[[#e6752a]Bandera:]]></string>
+<string name='[#e6752a]Ship:'><![CDATA[[#e6752a]Nave:]]></string>
+<string name='[#e6752a]Rover:'><![CDATA[[#e6752a]Vehículo:]]></string>
+<string name='[#e6752a]Station:'><![CDATA[[#e6752a]Estación:]]></string>
+
+<string name="Fly"><![CDATA[Volar]]></string>
+<string name="Back"><![CDATA[Volver]]></string>
+<string name="Back"><![CDATA[Volver]]></string>
+<string name="Available Parts"><![CDATA[Partes disponibles]]></string>
+
+<string name="Data"><![CDATA[Datos]]></string>
+<string name="Value"><![CDATA[Valor]]></string>
+<string name="Science"><![CDATA[Ciencia]]></string>
+
+<string name="Nothing selected."><![CDATA[Nada seleccionado.]]></string>
+<string name="Active Strategies"><![CDATA[Estrategias Activas]]></string>
+<string name="Cancel Strategy"><![CDATA[Cancelar Estrategia]]></string>
+
+<string name="Accept Contract"><![CDATA[Aceptar contrato]]></string>
+<string name="Decline Contract"><![CDATA[Declinar contrato]]></string>
+<string name="Back to Contract"><![CDATA[Volver al contrato]]></string>
+<string name="All"><![CDATA[Todo]]></string>
+<string name="Completed"><![CDATA[Completado]]></string>
+<string name="Failed"><![CDATA[Fallado]]></string>
+<string name="Cancelled"><![CDATA[Cancelado]]></string>
+<string name="Deadline"><![CDATA[Fecha limite]]></string>
+<string name="Expires"><![CDATA[Caduca]]></string>
+<string name="Available"><![CDATA[Disponible]]></string>
+<string name="Active"><![CDATA[Activo]]></string>
+<string name="Archives"><![CDATA[Archivos]]></string>
+
+<string name="Mass"><![CDATA[Masa]]></string>
+<string name="Size"><![CDATA[Talla]]></string>
+<string name="Cost"><![CDATA[Coste]]></string>
+<string name="Name"><![CDATA[Nombre]]></string>
+<string name="Go to Astronaut Complex"><![CDATA[Ir al complejo astronauta]]></string>
+<string name="Reset"><![CDATA[Reiniciar]]></string>
+<string name="Clear"><![CDATA[Limpio]]></string>
+<string name="Fill"><![CDATA[Rellenar]]></string>
+<string name="Available crew"><![CDATA[Personal disponible]]></string>
+<string name="Parts with crew capacity"><![CDATA[Capacidad de personal por pieza]]></string>
+<string name="Stages"><![CDATA[Etapas]]></string>
+<string name="Parts"><![CDATA[Piezas]]></string>
+<string name="Launch new mission"><![CDATA[Lanzamiento nueva mision]]></string>
+<string name="Close"><![CDATA[Cerrar]]></string>
+<string name="Launch"><![CDATA[Lanzar]]></string>
+<string name="Delete"><![CDATA[Suprimir]]></string>
+<string name="Edit"><![CDATA[Editar]]></string>
+
+<string name="Stupidity"><![CDATA[Estupidez]]></string>
+<string name="Courage"><![CDATA[Corage]]></string>
+<string name="Applicants"><![CDATA[Demandante]]></string>
+</es>

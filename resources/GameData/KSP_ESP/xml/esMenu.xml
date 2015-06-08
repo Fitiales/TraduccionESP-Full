@@ -1,0 +1,14 @@
+<es>
+	<Component name="backBtn" size="17">Volver</Component>
+	<Component name="startBtn" size="17">Empezar</Component>
+	<Component name="settingBtn" size="17">Ajustes</Component>
+	<Component name="spaceportBtn" size="17">Mods &amp; complementos</Component>
+	<Component name="commBtn" size="17">Comunidad KSP [ES]</Component>
+	<Component name="continueBtn" size="17">Continuar Juego</Component>
+	<Component name="creditsBtn" size="17">Créditos</Component>
+	<Component name="newGameBtn" size="17">Nuevo Juego</Component>
+	<Component name="quitBtn" size="17">Salir</Component>
+	<Component name="scenariosBtn" size="17">Escenarios</Component>
+	<Component name="trainingBtn" size="17">Tutoriales</Component>
+	<Component name="KSPsiteURL">http://forum.kerbalspaceprogram.com/forums/60-Spanish</Component>
+</es>

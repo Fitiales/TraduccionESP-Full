@@ -1,0 +1,12 @@
+<es size="19">
+	<Building building="VAB">Edificio de ensamblaje de vehículos</Building>
+	<Building building="SPH">Hangar de aviones</Building>
+	<Building building="AstronautComplex">Complejo de astronautas</Building>
+	<Building building="TrackingStation">Estación de seguimiento</Building>
+	<Building building="AdministrationBuilding">Edificio de administración</Building>
+	<Building building="Runway">Pista de aterrizaje</Building>
+	<Building building="LaunchPad">Plataforma de lanzamiento</Building>
+	<Building building="FlagPole">Bandera</Building>
+	<Building building="MissionControl">Control de misión</Building>
+	<Building building="RD">División de Investigación y desarrollo</Building>
+</es>
