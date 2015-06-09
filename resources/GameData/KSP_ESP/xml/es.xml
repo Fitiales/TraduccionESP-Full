@@ -3782,13 +3782,13 @@ Distancia: ]]>
 <string id="118149"><![CDATA[T ]]></string>
 <string id="118154"><![CDATA[Agregar Maniobra]]></string>
 <string id="118179"><![CDATA[Deformar Tiempo]]></string>
-<string id="118198"><![CDATA[Warp to Next Maneuver]]></string>
-<string id="118241"><![CDATA[Cannot Auto-Warp so far]]></string>
+<string id="118198"><![CDATA[Avanza siguiente maniobra]]></string>
+<string id="118241"><![CDATA[No puede avanzar por ahora]]></string>
 <string id="118288"><![CDATA[Marcar objetivo]]></string>
 <string id="118315"><![CDATA[Desactivar Objetivo]]></string>
 <string id="118340"><![CDATA[Cambiar A]]></string>
 <string id="118359"><![CDATA[View in Tracking Station]]></string>
-<string id="118408"><![CDATA[Focus View]]></string>
+<string id="118408"><![CDATA[Vista Focal]]></string>
 <string id="118429"><![CDATA[OrbitTargeterCheckingTrackingStationState]]></string>
 <string id="118512"><![CDATA[[Orbit Targeter]: Target is ]]></string>
 <string id="118569"><![CDATA[[Orbit Targeter]: Dropping target because it is the current main body]]></string>
